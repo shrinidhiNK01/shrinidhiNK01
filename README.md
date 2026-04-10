@@ -1,20 +1,35 @@
-# 👾 SHRINIDHI NK | DIRECTOR PROFILE⚡
+# 👾 SHRINIDHI N K PROFILE⚡
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=SHRINIDHI%20NK&fontSize=45&animation=twinkling&fontColor=ffffff" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=280&section=header&text=Hi%20👋,%20I'm%20Shrinidhi%20NK&desc=Engineering%20Student%20from%20India%20🚀&descSize=20&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=1500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+FULL+STACK+WEB+DEVELOPMENT;🤖+ARTIFICIAL+INTELLIGENCE+(AI);💀+DATA+STRUCTURES+AND+ALGORITHMS;🚀+BUILDING+NEXT+LEVEL+SYSTEMS;🔥+WELCOME+TO+MY+DIGITAL+UNIVERSE" />
 </p>
 
-## 🧠 WHAT'S INSIDE MY MIND
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650" />
+  <a href="https://www.linkedin.com/in/shrinidhi-kulkarni-804135289" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shrinidhi%20Kulkarni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  </a>
+  <a href="https://leetcode.com/u/kulkarnishrinidhi0001/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCQhuZX6PzDXBbTCTpvElO0g" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Tech%20Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000"/>
+  </a>
+  <a href="https://www.instagram.com/shrinidhi_n_k" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Daily%20Life-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
+  </a>
 </p>
 
----
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Let's+Build+Something+Amazing+🚀;Open+to+Collaboration+💡;Always+Learning+New+Things+🔥" />
+</p>
 
 ## ⚡ LIVE NEURAL DASHBOARD
 
